@@ -8,7 +8,7 @@
     <a target="_blank" href="https://www.youtube.com/@vesslai4254"><img src="https://img.shields.io/badge/style--5eba00.svg?label=YouTube&logo=youtube&style=social"></a>&nbsp;
 </div>
 
-## What we are building
+## What we are building 👷‍♂️👷‍♀️
 
 VESSL is a fully managed MLOps platform for building, training, and deploying models faster at scale. 
 
