@@ -18,4 +18,4 @@ VESSL is a fully managed MLOps platform for building, training, and deploying mo
 
 ## Get started now 💫
 
-Join the world's most ambitious ML teams like Hyundai Motors Autonomous Driving Team and Cognex Deep Learning Lab. Sign up for a free account and start training at [👉 https://vessl.ai](https://vessl.ai).
+Join the world's most ambitious ML teams like **Hyundai Motors Autonomous Driving Team** and **Cognex Deep Learning Lab**. Sign up for a free account and start training at [👉 https://vessl.ai](https://vessl.ai).
