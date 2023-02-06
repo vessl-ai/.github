@@ -12,9 +12,9 @@
 
 VESSL is a fully managed MLOps platform for building, training, and deploying models faster at scale. 
 
-- 👟 VESSL Run: Run containerized training, optimization, and serving workloads in seconds
-- 🔀 VESSL Pipelines: Scale ML workloads into automated end-to-end CI/CD pipelines
-- 📈 VESSL Artifacts: Track your ML workloads across different environments with full metadata
+- 👟 **VESSL Run**: Run containerized training, optimization, and serving workloads in seconds
+- 🔀 **VESSL Pipelines**: Scale ML workloads into automated end-to-end CI/CD pipelines
+- 📈 **VESSL Artifacts**: Track your ML workloads across different environments with full metadata
 
 ## Get started now 💫
 
