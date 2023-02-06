@@ -1,6 +1,6 @@
 # Welcome to VESSL 👋 [![Twitter Follow](https://img.shields.io/twitter/follow/vesslai?style=social)](https://twitter.com/vesslai) [![Slack](https://img.shields.io/badge/Slack-Join-4A154B?style=social)](http://bit.ly/3HEIV9C)
 
-[![VESSL](https://user-images.githubusercontent.com/97027715/216858987-fcc087b5-89d8-497d-9b79-b8f0d04a4172.jpeg)](https://vessl.ai/?utm_medium=sns&utm_source=github)
+[![VESSL](https://user-images.githubusercontent.com/97027715/216870263-338b99ba-e4e2-40a9-a97d-791ac8185169.png)](https://vessl.ai/?utm_medium=sns&utm_source=github)
 
 <div align="center">
     <a target="_blank" href="https://www.linkedin.com/company/vesslai"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>&nbsp;
