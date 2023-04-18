@@ -6,7 +6,7 @@
     <a target="_blank" href="https://www.linkedin.com/company/vesslai"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>&nbsp;
     <a target="_blank" href="https://vesslai.medium.com/"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Medium&logo=medium&style=social"></a>&nbsp;
     <a target="_blank" href="https://www.youtube.com/@vesslai4254"><img src="https://img.shields.io/badge/style--5eba00.svg?label=YouTube&logo=youtube&style=social"></a>&nbsp;
-    <a target="_blank" href="https://join.slack.com/t/vessl-ai-community/shared_invite/zt-1a6schu04-NyjRKE0UMli58Z_lthBICA"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Community-Slack&logo=slack&style=social""></a>&nbsp;
+    <a target="_blank" href="https://join.slack.com/t/vessl-ai-community/shared_invite/zt-1a6schu04-NyjRKE0UMli58Z_lthBICA"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Slack&logo=slack&style=social""></a>&nbsp;
 
 </div>
 
